@@ -18,6 +18,9 @@ explain the steps/process of the functions you have implemented.
 
 # Hints:
 • You have to add these students using ‘insert_student’ function.
+
 • Output of ‘show_last_student ()’ will be=> Nafis, 3.85.
+
 • Output of ‘sort_ student()’ will be=> Jamal, Karim, Nafis, Rahim.
+
 • Output of ‘calculate_avg_CGPA()’ will be=> 3.575.
